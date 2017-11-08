@@ -1,7 +1,7 @@
 'use strict'
 
 var assert = require('assert');
-var center = require('./');
+var center = require('./index');
 
 describe('.center()', function () {
 	it('should return the center of convex polygon', function () {
