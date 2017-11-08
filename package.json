@@ -1,0 +1,32 @@
+{
+  "name": "svg-polygon-center",
+  "version": "1.0.0",
+  "description": "Return the center for a given SVG polygon points",
+  "keywords": [
+    "html",
+    "svg",
+    "polygon",
+    "centroid"
+  ],
+  "author": {
+    "name": "Diego Jara",
+    "email": "saintplay96@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saintplay/saintplay/svg-polygon-center.git"
+  },
+  "bugs": {
+    "url": "https://github.com/saintplay/saintplay/svg-polygon-center/issues"
+  },
+  "main": "dist/bundle.js",
+  "scripts": {
+    "test": "mocha",
+    "build": "webpack -p index.js dist/bundle.js"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "webpack": "^3.8.1"
+  },
+  "license": "MIT"
+}
