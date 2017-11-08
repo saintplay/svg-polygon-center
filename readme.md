@@ -1,4 +1,4 @@
-# svg-polygon-center [![Build Status](https://travis-ci.org/saintplay/svg-polygon-center?branch=master)](https://travis-ci.org/saintplay/svg-polygon-center)
+# svg-polygon-center [![Build Status](https://travis-ci.org/saintplay/svg-polygon-center.svg?branch=master)](https://travis-ci.org/saintplay/svg-polygon-center)
 
 > Return the center for a given SVG polygon points.
 
