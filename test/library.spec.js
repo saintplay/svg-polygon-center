@@ -1,7 +1,7 @@
 /* global describe, it, before */
 
 import chai from 'chai';
-import center from '../dist/svg-polygon-center.js';
+import center from '../dist/svg-polygon-center.min.js';
 
 chai.expect();
 

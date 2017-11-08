@@ -1,9 +1,9 @@
 /**
  * Return the center for a given SVG polygon points attribute
- * @param  {String} points - Points attribute of a SVG <polygon> or <polyline>
- * @returns {Object} Center of the polygon which is an object that contains x and y property
+ * @param  {string} points - Points attribute of a SVG <polygon> or <polyline>
+ * @returns {object} Center of the polygon which contains x and y property
  */
-module.exports = function (points) {
+export default function center(points) {
   if (!points) {
     return;
   }

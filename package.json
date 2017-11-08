@@ -20,6 +20,11 @@
     "url": "https://github.com/saintplay/saintplay/svg-polygon-center/issues"
   },
   "main": "dist/svg-polygon-center.min.js",
+  "typings": "index.d.ts",
+  "files": [
+    "dist",
+    "index.d.ts"
+  ],
   "scripts": {
     "build": "webpack --env build",
     "dev": "webpack --progress --colors --watch --env dev",
