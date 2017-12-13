@@ -1,6 +1,6 @@
 {
   "name": "svg-polygon-center",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Return the center for a given SVG polygon points",
   "keywords": [
     "html",
@@ -14,10 +14,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/saintplay/saintplay/svg-polygon-center.git"
+    "url": "git+https://github.com/saintplay/svg-polygon-center.git"
   },
   "bugs": {
-    "url": "https://github.com/saintplay/saintplay/svg-polygon-center/issues"
+    "url": "https://github.com/saintplay/svg-polygon-center/issues"
   },
   "main": "dist/svg-polygon-center.min.js",
   "typings": "index.d.ts",
